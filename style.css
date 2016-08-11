@@ -1,0 +1,5 @@
+@media (min-width: 320px) {
+  .tablesaw-stack tbody tr:not(:last-child) {
+    border-bottom: 2px solid #0B0B0D;
+  }
+}
